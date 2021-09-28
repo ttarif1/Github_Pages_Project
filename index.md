@@ -32,7 +32,8 @@ Hello, my name is Tarek Tarif and I am currently a Senior majoring in Mathematic
 
 #### 3 Favorite Boba Spots
     1. Omomo Tea Shoppe 
-![Matcha](https://github.com/ttarif1/Github_Pages_Project/Photos/OMOMO.jpg)
+   
+![Matcha](Photos/OMOMO.jpg)
     
     2. Orobae
     3. Sunright Tea Studio
