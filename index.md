@@ -1,11 +1,12 @@
 # Welcome to my Profile Page
 
+#tree
 ## Table of Contents
-    -[Introduction]()
-        -[Picture of myself]()
-        -[Favorite Quote]()
-        -[Favorite Boba Shops]()
-        -[Current Goals]()
+    -[Introduction](https://github.com/ttarif1/Github_Pages_Project/blob/fav_lang/index.md#introduction)
+        -[Picture of myself](https://github.com/ttarif1/Github_Pages_Project/blob/fav_lang/index.md#picture-of-myself)
+        -[Favorite Quote](https://github.com/ttarif1/Github_Pages_Project/blob/fav_lang/index.md#favorite-quote)
+        -[3 Favorite Boba Shops](https://github.com/ttarif1/Github_Pages_Project/blob/fav_lang/index.md#3-favorite-boba-spots)
+        -[Current Goals](https://github.com/ttarif1/Github_Pages_Project/blob/fav_lang/index.md#current-goals)
 
 ### Introduction
 Hello, my name is Tarek Tarif and I am currently a Senior majoring in Mathematics-Computer Science. My interests include:
