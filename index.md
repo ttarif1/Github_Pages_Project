@@ -34,7 +34,7 @@ Hello, my name is Tarek Tarif and I am currently a Senior majoring in Mathematic
     1. Omomo Tea Shoppe 
    
 ![Matcha](Photos/blob/OMOMO.jpg)
-    
+     
     2. Orobae
     3. Sunright Tea Studio
 
